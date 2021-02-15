@@ -1,0 +1,4 @@
+* Variables accesibility
+#+begin_src
+vsim wor.DUT -voptargs=+acc
+#+end_src
