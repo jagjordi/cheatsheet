@@ -1,4 +1,5 @@
-* Variables accesibility
+* Enable accesibility
+  This enables accesibility for all elements (processes, local variables, etc.)
 #+begin_src
 vsim wor.DUT -voptargs=+acc
 #+end_src
